@@ -1,5 +1,11 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> /br I'm Ikbar Saif Fadilah</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<H1 align="center">I'm Ikbar Saif Fadilah</H1>
 
+[![Github](https://img.shields.io/github/followers/Ikbarsf?label=Follow&style=social)](https://github.com/Ikbarsf)
+
+
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikbarsf&theme=algolia) |
 
 
 <!--
