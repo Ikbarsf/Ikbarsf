@@ -1,11 +1,12 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<H1 align="center">I'm Ikbar Saif Fadilah</H1>
-
+<h3 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> \n I'm Ikbar Saif Fadilah</h3>
 [![Github](https://img.shields.io/github/followers/Ikbarsf?label=Follow&style=social)](https://github.com/Ikbarsf)
 
+I have a high interest and enthusiasm in Web Development
+- Jember University | Departement of Computer Science | Informatics 🎓 <br/>
+- Part of <span><a href="https://www.instagram.com/hmifunej/">@hmifunej</a></span> as Staff Division Human Resource Development 👨‍💻 
 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikbarsf&theme=algolia) |
+| ![Ikbar's github stats](https://github-readme-stats.vercel.app/api?username=Ikbarsf&show_icons=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikbarsf&theme=algolia) |
 
 
 <!--
