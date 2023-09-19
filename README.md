@@ -8,7 +8,7 @@ I have a high interest and enthusiasm in Web Development
 
 <hr>
 
-![Ikbar's github stats](https://github-readme-stats.vercel.app/api?username=Ikbarsf&show_icons=true&theme=algolia)  &emsp; &emsp; &emsp; &emsp; &emsp;
+![Ikbar's github stats](https://github-readme-stats.vercel.app/api?username=Ikbarsf&show_icons=true&theme=algolia)  &emsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikbarsf&theme=algolia) 
 
 
